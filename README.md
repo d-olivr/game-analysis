@@ -22,6 +22,12 @@ This project investigates what characteristics of a Steam game are associated wi
 
 ---
 
+## 👥 Contributors
+<a href="https://github.com/d-olivr/game-analysis/graphs/contributors"><img src="https://contrib.rocks/image?repo=d-olivr/game-analysis"/>
+</a>
+<br>
+
+---
 ## License
 
 This project is for educational and research purposes only. Data is sourced from public APIs in accordance with their respective terms of use.
