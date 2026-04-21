@@ -7,7 +7,7 @@ To contribute to this project start with these first steps:
 - On Windows
 
 ```bash
-
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
 - On Linux
