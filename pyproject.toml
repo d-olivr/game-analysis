@@ -14,3 +14,16 @@ dependencies = [
     "torchaudio>=2.11.0",
     "torchvision>=0.26.0",
 ]
+
+[tool.black]
+line-length = 128
+target-version = ['py311']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+    \.wheels
+  | \.pkg
+  | \.direnv
+  | \.venv
+)/
+'''
