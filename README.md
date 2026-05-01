@@ -23,7 +23,7 @@ This project investigates what characteristics of a Steam game are associated wi
 ---
 
 ## 👥 Contributors
-<a href="https://github.com/d-olivr/game-analysis/graphs/contributors"><img src="https://contrib.rocks/image?repo=d-olivr/game-analysis"/>
+<a href="https://github.com/d-olivr/steam-analysis/graphs/contributors"><img src="https://contrib.rocks/image?repo=d-olivr/steam-analysis"/>
 </a>
 <br>
 
